@@ -1,0 +1,49 @@
+_repo: A-Hazard-of-New-Fortunes---Complete_4600
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: "A Hazard of New Fortunes is a novel by William Dean Howells. Copyrighted\
+  \ in 1889 and first published in the U.S. by Harper & Bros. in 1890, the book was\
+  \ well-received for its portrayal of social injustice. Considered by many to be\
+  \ his best work, the novel is also considered to be the first novel to portray New\
+  \ York City. Some argue that the novel was the first of three Howells wrote with\
+  \ Socialist and Utopian ideals in mind: The Quality of Mercy in 1892, and An Imperative\
+  \ Duty in 1893. In this novel, although Howells briefly discusses the American Civil\
+  \ War, he primarily deals with issues of post-war \"Gilded Age\" America, like labor\
+  \ disputes, the rise of the self-made millionaire, the growth of urban America,\
+  \ the influx of immigrants, and other industrial-era problems. Many critics consider\
+  \ A Hazard of New Fortunes to be one of Howells' most important examples of American\
+  \ literary Realism because he portrays a variety of people from different backgrounds.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4600'
+  wikidata: Q4657268
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Middle-aged persons -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Moving, Household -- Fiction'
+- !lcsh 'City and town life -- Fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: A Hazard of New Fortunes — Complete
+url: http://www.gutenberg.org/ebooks/4600
+wikipedia:
+- https://en.wikipedia.org/wiki/A_Hazard_of_New_Fortunes
