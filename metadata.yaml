@@ -1,5 +1,8 @@
 _repo: A-Hazard-of-New-Fortunes---Complete_4600
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -24,6 +27,8 @@ description: "A Hazard of New Fortunes is a novel by William Dean Howells. Copyr
   \ A Hazard of New Fortunes to be one of Howells' most important examples of American\
   \ literary Realism because he portrays a variety of people from different backgrounds.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4600#A-Hazard-of-New-Fortunes---Complete
 gutenberg_issued: '2004-10-23'
 gutenberg_type: Text
 identifiers:
